@@ -23,8 +23,7 @@
 * **Inputs & Indicators:** Push Button or slide switches, LEDs
 
 ---
-💡Links to the Tinkercad simulations are provided in the simulations folder
-
+💡Links to the Tinkercad simulations are provided in the simulations folder. Truth Table and RTL documentations are provided in the docs folder for better understanding of the fundamentals behind these circuits.
 ---
 
 ## 📂 Repository Structure
