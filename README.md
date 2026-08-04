@@ -23,6 +23,8 @@
 * **Inputs & Indicators:** Push Button or slide switches, LEDs
 
 ---
+💡Links to the Tinkercad simulations are provided in the simulations folder
+---
 
 ## 📂 Repository Structure
 
